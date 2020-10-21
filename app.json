@@ -1,0 +1,27 @@
+{
+  "pages": [
+    "pages/index/index"
+  ],
+  "sitemapLocation": "sitemap49.json",
+  "subPackages": [
+    {
+      "root": "pages/cfs/",
+      "pages": [
+        "main",
+        "query/main",
+        "photograph/main",
+        "packing/main",
+        "pin/main",
+        "pin/detail/main"
+      ]
+    },
+    {
+      "root": "pages/check/",
+      "pages": [
+        "main",
+        "detail/main"
+      ]
+    }]
+
+
+}
